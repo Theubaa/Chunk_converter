@@ -1,3 +1,6 @@
+http://13.232.39.95:8502/    also you can directly use from here
+
+
 # 📚 File Chunk Converter – Knowledge Base Generator
 
 Easily convert `.txt`, `.md`, `.json`, and `.pdf` files into small, clean, overlapping text chunks — perfect for feeding into Chatbots, LLMs, semantic search, and vector databases.
